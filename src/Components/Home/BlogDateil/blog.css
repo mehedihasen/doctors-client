@@ -1,0 +1,33 @@
+.blogs{
+    border: 0;
+}
+.blogs .blog-header{
+    border: 0;
+    background-color: transparent;
+
+
+}
+
+.blog:hover {
+    background-image: linear-gradient(75deg, #19D3AE,#0fcfec);
+    color: rgb(219, 245, 248) !important;
+    transition:  .1s  all ease-in-out !important;
+}
+.blog:hover .blog-body{
+    background-image: url(../../../images/quote.png);
+    background-repeat: no-repeat;
+    background-position: left-top;
+    background-size:100%;
+}
+.blog:hover h5,
+.blog:hover h6
+{
+    color: rgb(219, 245, 248) !important;
+
+}
+.blog:hover img {
+    display: none;
+}
+.blog:hover p {
+    display: none;
+}

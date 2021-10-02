@@ -1,0 +1,27 @@
+.bg-appoint{
+    background-image: url(../../../images/Appointment.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 420px;
+    margin-top: 150px;
+}
+
+.bg-appoint::before{
+    content:  "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgb(36, 41, 73);
+    opacity: .9;
+    top: 0;
+}
+
+.bg-appoint img{
+    height: 550px;
+    transform: translateY(-130px);
+}
+.index{
+    z-index: 50;
+}
