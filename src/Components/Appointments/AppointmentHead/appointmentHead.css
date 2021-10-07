@@ -1,0 +1,6 @@
+.set-bg{
+    background-image: url(../../../images/chearbg.png);
+    height:800px;
+    background-size: cover;
+    z-index: -80;
+}

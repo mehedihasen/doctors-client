@@ -11,7 +11,7 @@ const Exceptional = () => {
                 <div className='col-md-6'>
                     <h1 className='mt-3 mb-3' style={{color:'#3A4256'}}>Exceptional Dental <br /> On Your Terms</h1>
                     <h3 className='text-secondary '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae iste culpa ipsam tempore! Totam accusamus sapiente assumenda ullam voluptate illum possimus. Eaque tenetur provident nisi. Sequi eaque suscipit reiciendis nesciunt amet debitis sint inventore maxime, veniam excepturi facere </h3>
-                    <button className="btn btn-primary mt-5 p-2">Learn more</button>
+                    <button className="btn btn-brand text-uppercase mt-5 p-2">Learn more</button>
                 </div>
 
             </div>

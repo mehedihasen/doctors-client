@@ -21,7 +21,7 @@ const Contact = () => {
                             <textarea name="" id="" placeholder='write your word' cols="30" rows="10" class="form-control mt-5 p-4"></textarea>
                         </div>
                         <div className="form-group text-center mt-3 ">
-                           <button type="button" className="btn btn-primary py-3 px-5 text-uppercase"> Submit </button>
+                           <button type="button" className="btn btn-brand py-3 px-5 text-uppercase"> Submit </button>
                        </div>
                     </form>
                 </div>

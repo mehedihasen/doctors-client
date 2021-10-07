@@ -15,7 +15,7 @@ const Appointment = () => {
                         <h1 className='my-4'>Make an Appointment <br /> Today</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias consequatur assumenda quas ratione consequuntur eius.
                         </p>
-                        <button className="btn btn-primary">Learn more</button>
+                        <button className="btn btn-brand text-uppercase">Learn more</button>
                     </div>
                 </div>
             </div>

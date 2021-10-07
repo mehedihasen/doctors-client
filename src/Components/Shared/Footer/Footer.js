@@ -52,7 +52,7 @@ const Footer = () => {
                     </ul>
                     <div className="mt-5">
                         <h6>Call now</h6>
-                        <button className="btn btn-primary">+60125550295</button>
+                        <button className="btn btn-brand text-uppercase">+60125550295</button>
                     </div>
                 </FooterData>
             </div>
